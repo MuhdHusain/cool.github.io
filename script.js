@@ -32,7 +32,7 @@ const tiles = {
 };
 tiles[1].src = "img/tree.png";
 tiles[2].src = "img/path.png";
-tiles[3].src = "img/grass.png";
+tiles[3].src = "img/grass.jpg";
 
 const playerImg = new Image();
 playerImg.src = "img/player.png";
