@@ -31,7 +31,7 @@ const tiles = {
   3: new Image(),
 };
 tiles[1].src = "img/tree.png";
-tiles[2].src = "img/path.png";
+tiles[2].src = "img/dirt.png";
 tiles[3].src = "img/grass.jpg";
 
 const playerImg = new Image();
